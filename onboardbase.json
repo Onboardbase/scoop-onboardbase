@@ -1,0 +1,15 @@
+{
+    "version": "1.0.4",
+    "architecture": {
+        "64bit": {
+            "url": "https://onboardbase-cli.fra1.digitaloceanspaces.com/scoop/scoop-release.zip",
+            "bin": [
+                "onboardbase.exe"
+            ],
+            "hash": "6c11a1b76f50f8ecdbd410ccc8f86bb7761613b48c3975f4ea59362ef2aaa8ee"
+        }
+    },
+    "homepage": "https://onboardbase.com",
+    "license": "Apache-2.0",
+    "description": "The official Onboardbase CLI"
+}
